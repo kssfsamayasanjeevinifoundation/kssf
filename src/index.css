@@ -1,6 +1,31 @@
 html{
   scroll-behavior: smooth;
 }
+#q1{
+  color: rgb(255, 24, 24);
+  background-color: #f1f1f1;
+  display: inline-block;
+  
+
+
+  padding: 15px;
+ 
+}
+#logo1{
+
+    margin: 0;
+   
+  
+    
+}
+.mainImg1{
+  background-image: url("src/assets/imgs/award.jpeg");
+  /* background-repeat: no-repeat;
+  background-size: 650px 200px; */
+}
+
+
+/* ************************ */
 
 * {
   box-sizing: border-box;
