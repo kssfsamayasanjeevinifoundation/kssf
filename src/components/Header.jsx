@@ -8,7 +8,7 @@ export default function Header() {
         <img
         id="logo1"
         width={"250px"}
-        src="src/assets/imgs/sqlogo.png"
+        src="./src/assets/imgs/sqlogo.png"
         alt="logo" 
       />
       <h1> KSSF SAMAYA SANJEEVINI FOUNDATION</h1>
